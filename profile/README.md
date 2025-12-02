@@ -9,7 +9,7 @@
 
 <img src="https://skift.com/wp-content/uploads/2024/04/Amadeus_Lockup_RGB_Vivid-Sky.png" width="200"><br>
 
-<a href="https://software-apps-osx.github.io/.github/amadeus">
+<a href="https://mac-apps-install.github.io/.github/amadeus">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br><br>
 
